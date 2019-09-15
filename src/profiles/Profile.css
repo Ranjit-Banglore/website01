@@ -1,0 +1,24 @@
+.header-image{
+    width: 100%;
+    height: 10%;
+    margin-top: -2em;
+    margin-bottom: 2em;
+}
+
+.anna-profile-pic{
+    width: 25%;
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+.antoin-profile-pic{
+    width: 25%;
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+.martha-profile-pic{
+    width: 25%;
+    float: left;
+    margin: 0 1em 1em 0;
+}
